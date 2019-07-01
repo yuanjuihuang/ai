@@ -22,7 +22,8 @@ To predict the infected label, determining whether or not a blood smear sample i
 	![Alt text](img/valid_dataset_augment.png "Valid Dataset")
 
 2. Create CNN model
-	![Alt text](img/identifying_malaria.png "Train Dataset")	
+![Alt text](img/identifying_malaria.png "Train Dataset")	
+
 3. Evaluation model
 	1. train dataset and valid dataset (without data augmentation)
 		1. the loss and accuracy of train dataset and valid dataset
