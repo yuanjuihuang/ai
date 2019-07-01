@@ -38,6 +38,7 @@ To predict the infected label, determining whether or not a blood smear sample i
 		2. the confusion matrix of train dataset and valid dataset
 		![Alt text](img/cm_for_test.png "Train Dataset")	 
 		3. the roc curve of train dataset and valid data
+		
 		![Alt text](img/roc_for_test.png "Train Dataset")	 
 4. submisson result
  	![Alt text](img/submissions_result.png "Train Dataset")
