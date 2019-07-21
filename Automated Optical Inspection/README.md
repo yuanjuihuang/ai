@@ -47,12 +47,10 @@ Reference
 		![Alt text](img/roc_for_train_valid.png "Train Dataset")
 
 	2. test dataset (use valid dataset with data augmentation)
-		1. the loss and accuracy of train dataset and valid dataset
-		![Alt text](img/loss_for_valid.png "Train Dataset") 
-		2. the confusion matrix of train dataset and valid dataset
-		![Alt text](img/cm_for_test.png "Train Dataset")	 
-		3. the roc curve of train dataset and valid data		
-		![Alt text](img/roc_for_test.png "Train Dataset")
+		1. the loss and accuracy 
+		![Alt text](img/loss_for_test.png "Train Dataset") 
+		2. the average loss and the roc curve, the confusion matrix 
+		![Alt text](img/avgloss_cm_roc_for_test.png "Train Dataset")			 
 
 4. submisson result
  	![Alt text](img/submissions_result.png "Train Dataset")
