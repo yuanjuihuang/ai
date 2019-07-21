@@ -18,7 +18,7 @@ To predict the infected label, determining whether or not a blood smear sample i
 	![Alt text](img/train_dataset_augment.png "Train Dataset")
 	3. Valid dataset	
 	![Alt text](img/valid_dataset.png "Valid Dataset")
-  	4. Valid dataset with data augmentation 
+  	4. Test dataset with data augmentation 
 	![Alt text](img/valid_dataset_augment.png "Valid Dataset")
 
 2. Create CNN model
@@ -33,7 +33,7 @@ To predict the infected label, determining whether or not a blood smear sample i
 		3. the roc curve of train dataset and valid data
 		
 		![Alt text](img/roc_for_train_valid.png "Train Dataset")
-	2. test dataset (use valid dataset with data augmentation)
+	2. valid dataset (use valid dataset with data augmentation)
 		1. the loss and accuracy of train dataset and valid dataset
 		![Alt text](img/loss_for_test.png "Train Dataset") 
 		2. the confusion matrix of train dataset and valid dataset
